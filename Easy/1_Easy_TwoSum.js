@@ -15,6 +15,7 @@ Solution:
  */
 const twoSum = (nums, target) => {
     let data = {};
+
     for (let i = 0; i < nums.length; i++) {
         const number = nums[i];
         if (data[target - number] !== undefined) {
@@ -23,5 +24,6 @@ const twoSum = (nums, target) => {
             data[number] = i;
         }
     }
+
     return [];
 };
