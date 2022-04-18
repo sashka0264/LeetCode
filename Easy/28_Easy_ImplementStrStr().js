@@ -15,6 +15,7 @@ Solution:
  * @return {number}
  */
 const strStr = (haystack, needle) => {
-    const start = haystack.split(needle)[0].length
-    return haystack.length === start ? -1 : start;
+    if (haystack === needle) return 0;
+    const r = haystack.split(needle)[0]
+    return haystack === r ? -1 : r.length;
 };
