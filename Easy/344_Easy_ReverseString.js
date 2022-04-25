@@ -12,8 +12,6 @@ Solution:
  * @return {void} Do not return anything, modify s in-place instead.
  */
 const reverseString = s => {
-    for (let i = 0, r = s.length - 1; i < r; i++, r--) {
-        const p = s.length - 1 - i;
-        [s[i], s[p]] = [s[p], s[i]];
-    }
+    for (let i = 0, y = s.length - 1; i < y; i++, y--) [s[y], s[i]] = [s[i], s[y]];
+    return s;
 };
