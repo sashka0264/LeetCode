@@ -12,3 +12,4 @@
 |⚠️ 6            |66             |Easy        |[Plus One](https://leetcode.com/problems/plus-one)                                             |            |
 |✔️ 7            |69             |Easy        |[Sqrt(x)](https://leetcode.com/problems/sqrtx)                                                 |            |
 |✔️ 8            |88             |Easy        |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                         |            |
+|✔️ 9            |118            |Easy        |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                            |            |
