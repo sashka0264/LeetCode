@@ -20,3 +20,4 @@
 |✔️ 14           |231            |Easy        |[Power of Two](https://leetcode.com/problems/power-of-two)                                     |            |
 |✔️ 15           |234            |Easy        |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)                 |            |
 |⚠️ 16           |258            |Easy        |[Add Digits](https://leetcode.com/problems/add-digits)                                         |            |
+|✔️ 17           |278            |Easy        |[First Bad Version](https://leetcode.com/problems/first-bad-version)                           |            |
