@@ -11,3 +11,4 @@
 |✔️ 5            |35             |Easy        |[Search Insert Position](https://leetcode.com/problems/search-insert-position)                 |            |
 |⚠️ 6            |66             |Easy        |[Plus One](https://leetcode.com/problems/plus-one)                                             |            |
 |✔️ 7            |69             |Easy        |[Sqrt(x)](https://leetcode.com/problems/sqrtx)                                                 |            |
+|✔️ 8            |88             |Easy        |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                         |            |
