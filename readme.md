@@ -43,3 +43,4 @@
 |✔️ 37           |709            |Easy        |[To Lower Case](https://leetcode.com/problems/to-lower-case)                                   |            |
 |⚠️ 38           |762            |Easy        |[Prime Num...](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)|            |
 |✔️ 39           |771            |Easy        |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)                           |            |
+|✔️ 40           |804            |Easy        |[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)               |            |
