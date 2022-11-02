@@ -33,3 +33,4 @@
 |✔️ 27           |476            |Easy        |[Number Complement](https://leetcode.com/problems/number-complement)                           |            |
 |✔️ 28           |504            |Easy        |[Base 7](https://leetcode.com/problems/base-7)                                                 |            |
 |✔️ 29           |509            |Easy        |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number)                             |            |
+|✔️ 30           |520            |Easy        |[Detect Capital](https://leetcode.com/problems/detect-capital)                                 |            |
