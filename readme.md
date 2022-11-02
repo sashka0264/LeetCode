@@ -9,4 +9,4 @@
 |✔️ 3            |13             |Easy        |[Roman to Integer](https://leetcode.com/problems/roman-to-integer)                             |            |
 |⚠️ 4            |14             |Easy        |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)                   |            |
 |✔️ 5            |35             |Easy        |[Search Insert Position](https://leetcode.com/problems/search-insert-position)                 |            |
-|✔️ 6            |58             |Easy        |[Length of Last Word](https://leetcode.com/problems/length-of-last-word)                       |            |
+|⚠️ 6            |66             |Easy        |[Plus One](https://leetcode.com/problems/plus-one)                                             |            |
