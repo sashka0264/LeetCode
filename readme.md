@@ -34,3 +34,4 @@
 |✔️ 28           |504            |Easy        |[Base 7](https://leetcode.com/problems/base-7)                                                 |            |
 |✔️ 29           |509            |Easy        |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number)                             |            |
 |✔️ 30           |520            |Easy        |[Detect Capital](https://leetcode.com/problems/detect-capital)                                 |            |
+|⚠️ 31           |541            |Easy        |[Reverse String II](https://leetcode.com/problems/reverse-string-ii)                           |            |
