@@ -44,3 +44,4 @@
 |⚠️ 38           |762            |Easy        |[Prime Num...](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)|            |
 |✔️ 39           |771            |Easy        |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)                           |            |
 |✔️ 40           |804            |Easy        |[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)               |            |
+|⚠️ 41           |876            |Easy        |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)           |            |
