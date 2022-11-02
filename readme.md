@@ -4,5 +4,5 @@
 
 |     Count     | LeetCode ID   | Difficulty         | Name                                                               |  Solution  |
 | -------------:|:-------------:|:------------------:|:------------------------------------------------------------------:|:-----------|
-|1              |1              |Easy                |[Two Sum](https://leetcode.com/problems/two-sum)                            |            |
+|1              |1 ⚠️            |Easy                |[Two Sum](https://leetcode.com/problems/two-sum)                            |            |
 |2              |9              |Easy                |[Palindrome Number](https://leetcode.com/problems/palindrome-number)        |            |
