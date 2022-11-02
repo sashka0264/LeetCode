@@ -1,5 +1,5 @@
 Минимальное требование для себя - скорость выполнения и затраты по памяти лучше 80% относительно других участников. В 
-конце задач, которые этому не соответствуют, но при этом решены, будет написано соотношение скорости и памяти через "|". ✅⚠️
+конце задач, которые этому не соответствуют, но при этом решены, будет написано соотношение скорости и памяти через "|".
 
 
 |     Count     | LeetCode ID   | Difficulty | Name                                                                                          |  Solution  |
@@ -10,3 +10,4 @@
 |⚠️ 4            |14             |Easy        |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)                   |            |
 |✔️ 5            |35             |Easy        |[Search Insert Position](https://leetcode.com/problems/search-insert-position)                 |            |
 |⚠️ 6            |66             |Easy        |[Plus One](https://leetcode.com/problems/plus-one)                                             |            |
+|✔️ 7            |69             |Easy        |[Sqrt(x)](https://leetcode.com/problems/sqrtx)                                                 |            |
