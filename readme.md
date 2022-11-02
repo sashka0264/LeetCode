@@ -16,3 +16,4 @@
 |✔️ 10           |119            |Easy        |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)                      |            |
 |✔️ 11           |125            |Easy        |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                             |            |
 |✔️ 12           |136            |Easy        |[Single Number](https://leetcode.com/problems/single-number)                                   |            |
+|⚠️ 13           |206            |Easy        |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)                       |            |
