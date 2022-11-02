@@ -39,3 +39,4 @@
 |⚠️ 33           |561            |Easy        |[Array Partition](https://leetcode.com/problems/array-partition)                               |            |
 |✔️ 34           |657            |Easy        |[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin)                 |            |
 |✔️ 35           |693            |Easy        |[Binary Number with Alte...](https://leetcode.com/problems/binary-number-with-alternating-bits)|            |
+|✔️ 36           |704            |Easy        |[Binary Search](https://leetcode.com/problems/binary-search)                                   |            |
