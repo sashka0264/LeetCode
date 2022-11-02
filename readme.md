@@ -2,7 +2,7 @@
 конце задач, которые этому не соответствуют, но при этом решены, будет написано соотношение скорости и памяти через "|".
 
 
-|     Count     | LeetCode ID   | Difficulty         | Name                                                               |  Solution  |
-| -------------:|:-------------:|:------------------:|:------------------------------------------------------------------:|:-----------|
-|1              |1 ⚠️            |Easy                |[Two Sum](https://leetcode.com/problems/two-sum)                            |            |
-|2              |9              |Easy                |[Palindrome Number](https://leetcode.com/problems/palindrome-number)        |            |
+|     Count     | LeetCode ID   | Difficulty | Name                                                               |  Solution  |
+| -------------:|:-------------:|:----------:|:------------------------------------------------------------------:|:-----------|
+|1              |1 ⚠️            |Easy        |[Two Sum](https://leetcode.com/problems/two-sum)                            |            |
+|2              |9 ⚠️            |Easy        |[Palindrome Number](https://leetcode.com/problems/palindrome-number)        |            |
