@@ -27,3 +27,4 @@
 |✔️ 21           |344            |Easy        |[Reverse String](https://leetcode.com/problems/reverse-string)                                 |            |
 |✔️ 22           |349            |Easy        |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)         |            |
 |✔️ 23           |350            |Easy        |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)   |            |
+|✔️ 24           |383            |Easy        |[Ransom Note](https://leetcode.com/problems/ransom-note)                                       |            |
