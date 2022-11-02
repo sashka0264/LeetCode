@@ -19,3 +19,4 @@
 |⚠️ 13           |206            |Easy        |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)                       |            |
 |✔️ 14           |231            |Easy        |[Power of Two](https://leetcode.com/problems/power-of-two)                                     |            |
 |✔️ 15           |234            |Easy        |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)                 |            |
+|⚠️ 16           |258            |Easy        |[Add Digits](https://leetcode.com/problems/add-digits)                                         |            |
