@@ -25,3 +25,4 @@
 |✔️ 19           |290            |Easy        |[Word Pattern](https://leetcode.com/problems/word-pattern)                                     |            |
 |⚠️ 20           |338            |Easy        |[Counting Bits](https://leetcode.com/problems/counting-bits)                                   |            |
 |✔️ 21           |344            |Easy        |[Reverse String](https://leetcode.com/problems/reverse-string)                                 |            |
+|✔️ 22           |349            |Easy        |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)         |            |
