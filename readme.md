@@ -22,3 +22,4 @@
 |⚠️ 16           |258            |Easy        |[Add Digits](https://leetcode.com/problems/add-digits)                                         |            |
 |✔️ 17           |278            |Easy        |[First Bad Version](https://leetcode.com/problems/first-bad-version)                           |            |
 |⚠️ 18           |283            |Easy        |[Move Zeroes](https://leetcode.com/problems/move-zeroes)                                       |            |
+|✔️ 19           |290            |Easy        |[Word Pattern](https://leetcode.com/problems/word-pattern)                                     |            |
