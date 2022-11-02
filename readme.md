@@ -4,5 +4,5 @@
 
 |     Count     | LeetCode ID   | Difficulty         | Name              |  Solution  |
 | -------------:|:-------------:|:------------------:|:-----------------:|:-----------|
-| 1             | 1             | выровнен вправо    | Two Sum           |            |
-| 2             | 9             | выровнен по центру | Palindrome Number |            |
+| 1             | 1             | Easy               | Two Sum           |            |
+| 2             | 9             | Easy               | Palindrome Number |            |
