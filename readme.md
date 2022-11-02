@@ -14,3 +14,4 @@
 |✔️ 8            |88             |Easy        |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                         |            |
 |✔️ 9            |118            |Easy        |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                            |            |
 |✔️ 10           |119            |Easy        |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)                      |            |
+|✔️ 11           |125            |Easy        |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                             |            |
