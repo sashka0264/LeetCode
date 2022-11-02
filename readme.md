@@ -30,3 +30,4 @@
 |✔️ 24           |383            |Easy        |[Ransom Note](https://leetcode.com/problems/ransom-note)                                       |            |
 |✔️ 25           |412            |Easy        |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)                                           |            |
 |✔️ 26           |461            |Easy        |[Hamming Distance](https://leetcode.com/problems/hamming-distance)                             |            |
+|✔️ 27           |476            |Easy        |[Number Complement](https://leetcode.com/problems/number-complement)                           |            |
