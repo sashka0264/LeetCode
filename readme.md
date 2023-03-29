@@ -45,3 +45,4 @@
 |✔️ 39           |771            |Easy        |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)                           |            |
 |✔️ 40           |804            |Easy        |[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)               |            |
 |⚠️ 41           |876            |Easy        |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)           |            |
+|✔️ 41           |2535           |Easy        |[Difference Between...](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/)               |  
