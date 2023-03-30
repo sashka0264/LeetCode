@@ -4,9 +4,7 @@ In a linked list of size n, where n is even, the ith node (0-indexed) of the lin
 twin of node 2. These are the only nodes with twins for n = 4. The twin sum is defined as the sum of a node and its
 twin. Given the head of a linked list with even length, return the maximum twin sum of the linked list.
 
-Link: https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list
-
-Solution:
+https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list
 */
 
 /**
