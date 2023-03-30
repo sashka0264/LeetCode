@@ -5,9 +5,7 @@ position to each word then rearranging the words in the sentence. For example, t
 shuffled as "sentence4 a3 is2 This1" or "is2 sentence4 This1 a3". Given a shuffled sentence s containing no more than 9
 words, reconstruct and return the original sentence.
 
-Link: https://leetcode.com/problems/sorting-the-sentence
-
-Solution:
+https://leetcode.com/problems/sorting-the-sentence
 */
 
 /**
