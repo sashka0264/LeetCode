@@ -3,9 +3,7 @@ You are given two strings word1 and word2. Merge the strings by adding letters i
 word1. If a string is longer than the other, append the additional letters onto the end of the merged string. Return the
 merged string.
 
-Link: https://leetcode.com/problems/merge-strings-alternately
-
-Solution:
+https://leetcode.com/problems/merge-strings-alternately
 */
 
 /**
