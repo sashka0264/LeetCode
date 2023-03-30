@@ -12,9 +12,7 @@ principle applies to the number nine, which is written as IX. There are six inst
 - X can be placed before L (50) and C (100) to make 40 and 90.
 - C can be placed before D (500) and M (1000) to make 400 and 900.
 
-Link: https://leetcode.com/problems/roman-to-integer
-
-Solution:
+https://leetcode.com/problems/roman-to-integer
 */
 
 /**
