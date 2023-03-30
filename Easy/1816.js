@@ -4,9 +4,7 @@ consists of only uppercase and lowercase English letters (no punctuation). For e
 "hello world hello world" are all sentences. You are given a sentence s and an integer k. You want to truncate s such
 that it contains only the first k words. Return s after truncating it.
 
-Link: https://leetcode.com/problems/truncate-sentence
-
-Solution:
+https://leetcode.com/problems/truncate-sentence
 */
 
 /**
