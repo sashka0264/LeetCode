@@ -5,9 +5,7 @@ they add up to a specific target number. Let these two numbers be numbers[index1
 integer array [index1, index2] of length 2. The tests are generated such that there is exactly one solution. You may not
 use the same element twice. Your solution must use only constant extra space.
 
-Link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
-
-Solution:
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
 */
 
 /**
