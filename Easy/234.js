@@ -1,9 +1,7 @@
 /*
 Given the head of a singly linked list, return true if it is a palindrome.
 
-Link: https://leetcode.com/problems/palindrome-linked-list
-
-Solution:
+https://leetcode.com/problems/palindrome-linked-list
 */
 
 /**
