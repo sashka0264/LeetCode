@@ -5,9 +5,7 @@ to box j if abs(i - j) == 1. Note that after doing so, there may be more than on
 answer of size n, where answer[i] is the minimum number of operations needed to move all the balls to the ith box. Each
 answer[i] is calculated considering the initial state of the boxes.
 
-Link: https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box
-
-Solution:
+https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box
 */
 
 /**
