@@ -8,9 +8,7 @@ For example, "R3G2B1" describes n == 3 rings: a red ring placed onto the rod lab
 labeled 2, and a blue ring placed onto the rod labeled 1. Return the number of rods that have all three colors of rings
 on them.
 
-Link: https://leetcode.com/problems/rings-and-rods
-
-Solution:
+https://leetcode.com/problems/rings-and-rods
 */
 
 /**
