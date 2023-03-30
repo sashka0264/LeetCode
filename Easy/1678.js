@@ -4,9 +4,7 @@ You own a Goal Parser that can interpret a string command. The command consists 
 string "al". The interpreted strings are then concatenated in the original order. Given the string command, return the
 Goal Parser's interpretation of command.
 
-Link: https://leetcode.com/problems/goal-parser-interpretation
-
-Solution:
+https://leetcode.com/problems/goal-parser-interpretation
 */
 
 /**
