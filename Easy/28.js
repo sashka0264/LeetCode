@@ -4,9 +4,7 @@ haystack, or -1 if needle is not part of haystack. Clarification: What should we
 This is a great question to ask during an interview. For the purpose of this problem, we will return 0 when needle is an
 empty string. This is consistent to C's strstr() and Java's indexOf().
 
-Link: https://leetcode.com/problems/implement-strstr
-
-Solution:
+https://leetcode.com/problems/implement-strstr
 */
 
 /**
