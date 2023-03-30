@@ -7,9 +7,7 @@ string s in the format "<col1><row1>:<col2><row2>", where <col1> represents the 
 cells (x, y) such that r1 <= x <= r2 and c1 <= y <= c2. The cells should be represented as strings in the format
 mentioned above and be sorted in non-decreasing order first by columns and then by rows.
 
-Link: https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet
-
-Solution:
+https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet
 */
 
 /**
