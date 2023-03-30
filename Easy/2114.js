@@ -3,9 +3,7 @@ A sentence is a list of words that are separated by a single space with no leadi
 array of strings sentences, where each sentences[i] represents a single sentence. Return the maximum number of words
 that appear in a single sentence.
 
-Link: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences
-
-Solution:
+https://leetcode.com/problems/maximum-number-of-words-found-in-sentences
 */
 
 /**
