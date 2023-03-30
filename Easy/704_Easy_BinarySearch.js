@@ -3,9 +3,7 @@ Given an array of integers nums which is sorted in ascending order, and an integ
 target in nums. If target exists, then return its index. Otherwise, return -1. You must write an algorithm with O(log n)
 runtime complexity.
 
-Link: https://leetcode.com/problems/binary-search
-
-Solution:
+https://leetcode.com/problems/binary-search
 */
 
 /**
