@@ -5,9 +5,7 @@ and n / 2 teams advance to the next round. If the current number of teams is odd
 tournament, and the rest gets paired. A total of (n - 1) / 2 matches are played, and (n - 1) / 2 + 1 teams advance to
 the next round. Return the number of matches played in the tournament until a winner is decided.
 
-Link: https://leetcode.com/problems/count-of-matches-in-tournament
-
-Solution:
+https://leetcode.com/problems/count-of-matches-in-tournament
 */
 
 /**
