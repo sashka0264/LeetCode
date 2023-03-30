@@ -1,7 +1,7 @@
 /*
 Given an integer array nums, return the number of subarrays filled with 0. A subarray is a contiguous non-empty sequence of elements within an array.
 
-https://leetcode.com/problems/number-of-zero-filled-subarrays/description
+https://leetcode.com/problems/number-of-zero-filled-subarrays
 */
 
 const allVariations = (arr) => {
