@@ -4,9 +4,7 @@ Characters ('a' to 'i') are represented by ('1' to '9') respectively. Characters
 ('10#' to '26#') respectively. Return the string formed after mapping. The test cases are generated so that a unique
 mapping will always exist.
 
-Link: https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping
-
-Solution:
+https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping
 */
 
 /**
