@@ -11,9 +11,7 @@ We can similarly define the nesting depth depth(S) of any VPS S as follows:
 For example, "", "()()", and "()(()())" are VPS's (with nesting depths 0, 1, and 2), and ")(" and "(()" are not VPS's.
 Given a VPS represented as string s, return the nesting depth of s.
 
-Link: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses
-
-Solution:
+https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses
 */
 
 /**
