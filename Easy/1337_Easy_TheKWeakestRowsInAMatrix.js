@@ -5,9 +5,8 @@ row i is weaker than a row j if one of the following is true: The number of sold
 of soldiers in row j. Both rows have the same number of soldiers and i < j. Return the indices of the k weakest rows in
 the matrix ordered from weakest to strongest.
 
-Link: https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix
+https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix
 
-Solution:
 */
 
 /**
