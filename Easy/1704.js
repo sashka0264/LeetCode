@@ -4,9 +4,7 @@ and b be the second half. Two strings are alike if they have the same number of 
 'E', 'I', 'O', 'U'). Notice that s contains uppercase and lowercase letters. Return true if a and b are alike.
 Otherwise, return false.
 
-Link: https://leetcode.com/problems/determine-if-string-halves-are-alike
-
-Solution:
+https://leetcode.com/problems/determine-if-string-halves-are-alike
 */
 
 const alphabet = { a: 'a', e: 'e', i: 'i', o: 'o', u: 'u' };
