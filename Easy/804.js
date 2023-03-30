@@ -10,9 +10,7 @@ Given an array of strings words where each word can be written as a concatenatio
 example, "cab" can be written as "-.-..--...", which is the concatenation of "-.-.", ".-", and "-...". We will call such
 a concatenation the transformation of a word. Return the number of different transformations among all words we have.
 
-Link: https://leetcode.com/problems/unique-morse-code-words
-
-Solution:
+https://leetcode.com/problems/unique-morse-code-words
 */
 
 const s = [".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",
