@@ -3,7 +3,7 @@ Given head which is a reference node to a singly-linked list. The value of each 
 1. The linked list holds the binary representation of a number. Return the decimal value of the number in the linked
 list.
 
-Link: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
 
 Solution:
 */
