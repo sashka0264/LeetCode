@@ -4,9 +4,7 @@ the linked list will have Node.val == 0. For every two consecutive 0's, merge al
 a single node whose value is the sum of all the merged nodes. The modified list should not contain any 0's. Return the
 head of the modified linked list.
 
-Link: https://leetcode.com/problems/merge-nodes-in-between-zeros
-
-Solution:
+https://leetcode.com/problems/merge-nodes-in-between-zeros
 */
 
 /**
